@@ -23,7 +23,7 @@ select *from todoData;
 
 
 #In todo-servlet.xml
-<property name="password" value=""/>
+#<property name="password" value=""/>
 
 give your password
 
