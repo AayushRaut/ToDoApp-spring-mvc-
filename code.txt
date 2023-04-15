@@ -1,0 +1,8 @@
+create database todoApp;
+use todoApp;
+create table todoData(id int primary key auto_increment,todoTitle varchar(50) unique,todoContent varchar(100));
+show tables;
+
+desc todoData;
+
+select *from todoData;
