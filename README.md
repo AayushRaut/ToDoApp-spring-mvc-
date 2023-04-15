@@ -20,6 +20,8 @@ create table todoData(id int primary key auto_increment,todoTitle varchar(50) un
 select *from todoData;
 
 
+
+
 #In todo-servlet.xml
 <property name="password" value=""/>
 
